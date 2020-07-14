@@ -2,7 +2,7 @@
     <v-navigation-drawer 
         class="nav-drawer"
         permanent
-        color="primary"
+        color="secondary"
         dark
         :mini-variant="$vuetify.breakpoint.mdAndDown"
         mini-variant-width="80"
